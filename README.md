@@ -2,6 +2,8 @@
 
 Code for paper: WT-BCP: Wavelet Transform based Bidirectional Copy-Paste for Semi-Supervised Medical Image Segmentation
 
+Congratulations! Our work has been accepted by ICME 2025. The paper and detailed code will be released soon.
+
 
 ## Usage
 We provide `code`, `data_split` and `models` for LA and ACDC dataset.
